@@ -1,0 +1,17 @@
+,Average 57e2b,Average 5995e,Average 61102,Average gpt4_
+RELEVANCE - gold reference,4.0,4.0,4.0,3.0
+RELEVANCE - bigscience/T0pp,3.0,3.0,3.0,4.0
+RELEVANCE - text-davinci-003,2.0,2.0,1.0,2.0
+RELEVANCE - gpt-3.5-turbo,1.0,1.0,2.0,1.0
+FLUENCY - gold reference,4.0,4.0,4.0,3.0
+FLUENCY - bigscience/T0pp,3.0,3.0,3.0,4.0
+FLUENCY - text-davinci-003,2.0,2.0,1.0,1.5
+FLUENCY - gpt-3.5-turbo,1.0,1.0,2.0,1.5
+COHERENCE - gold reference,4.0,4.0,4.0,3.0
+COHERENCE - bigscience/T0pp,3.0,3.0,3.0,4.0
+COHERENCE - text-davinci-003,2.0,2.0,2.0,2.0
+COHERENCE - gpt-3.5-turbo,1.0,1.0,1.0,1.0
+CONSISTENCY - gold reference,4.0,4.0,4.0,3.0
+CONSISTENCY - bigscience/T0pp,3.0,3.0,2.5,4.0
+CONSISTENCY - text-davinci-003,2.0,2.0,2.5,2.0
+CONSISTENCY - gpt-3.5-turbo,1.0,1.0,1.0,1.0

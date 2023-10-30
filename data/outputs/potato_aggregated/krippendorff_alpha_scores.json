@@ -1,0 +1,88 @@
+{
+    "summarization": {
+        "RELEVANCE": {
+            "nominal without GPT-4": 0.5926,
+            "nominal with GPT-4": 0.375,
+            "ordinal without GPT-4": 0.8778,
+            "ordinal with GPT-4": 0.8125,
+            "interval without GPT-4": 0.8778,
+            "interval with GPT-4": 0.8125
+        },
+        "FLUENCY": {
+            "nominal without GPT-4": 0.5926,
+            "nominal with GPT-4": 0.2079,
+            "ordinal without GPT-4": 0.8778,
+            "ordinal with GPT-4": 0.7758,
+            "interval without GPT-4": 0.8778,
+            "interval with GPT-4": 0.8157
+        },
+        "COHERENCE": {
+            "nominal without GPT-4": 1.0,
+            "nominal with GPT-4": 0.6875,
+            "ordinal without GPT-4": 1.0,
+            "ordinal with GPT-4": 0.9062,
+            "interval without GPT-4": 1.0,
+            "interval with GPT-4": 0.9062
+        },
+        "CONSISTENCY": {
+            "nominal without GPT-4": 0.614,
+            "nominal with GPT-4": 0.4554,
+            "ordinal without GPT-4": 0.9467,
+            "ordinal with GPT-4": 0.8766,
+            "interval without GPT-4": 0.9684,
+            "interval with GPT-4": 0.8638
+        }
+    },
+    "simplification": {
+        "SEMANTICS": {
+            "nominal without GPT-4": 1.0,
+            "nominal with GPT-4": 0.5312,
+            "ordinal without GPT-4": 1.0,
+            "ordinal with GPT-4": 0.7188,
+            "interval without GPT-4": 1.0,
+            "interval with GPT-4": 0.7188
+        },
+        "FLUENCY": {
+            "nominal without GPT-4": 1.0,
+            "nominal with GPT-4": 0.5545,
+            "ordinal without GPT-4": 1.0,
+            "ordinal with GPT-4": 0.532,
+            "interval without GPT-4": 1.0,
+            "interval with GPT-4": 0.4952
+        },
+        "SIMPLICITY": {
+            "nominal without GPT-4": 0.3889,
+            "nominal with GPT-4": 0.375,
+            "ordinal without GPT-4": 0.6333,
+            "ordinal with GPT-4": 0.625,
+            "interval without GPT-4": 0.6333,
+            "interval with GPT-4": 0.625
+        }
+    },
+    "gec": {
+        "SEMANTICS": {
+            "nominal without GPT-4": 0.5926,
+            "nominal with GPT-4": 0.2188,
+            "ordinal without GPT-4": 0.8778,
+            "ordinal with GPT-4": 0.3438,
+            "interval without GPT-4": 0.8778,
+            "interval with GPT-4": 0.3438
+        },
+        "GRAMMATICALITY": {
+            "nominal without GPT-4": 1.0,
+            "nominal with GPT-4": 0.5545,
+            "ordinal without GPT-4": 1.0,
+            "ordinal with GPT-4": 0.843,
+            "interval without GPT-4": 1.0,
+            "interval with GPT-4": 0.8317
+        },
+        "OVERCORRECTION": {
+            "nominal without GPT-4": 0.2281,
+            "nominal with GPT-4": 0.1584,
+            "ordinal without GPT-4": 0.57,
+            "ordinal with GPT-4": 0.5685,
+            "interval without GPT-4": 0.6207,
+            "interval with GPT-4": 0.5753
+        }
+    }
+}

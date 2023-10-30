@@ -1,0 +1,13 @@
+,Average 57e2b,Average 5995e,Average 61102,Average gpt4_
+SEMANTICS - gold reference,4.0,4.0,4.0,4.0
+SEMANTICS - google/flan-t5-xxl,1.0,1.0,1.0,2.0
+SEMANTICS - davinci-instruct-beta,2.0,2.0,2.0,3.0
+SEMANTICS - gpt-3.5-turbo,3.0,3.0,3.0,1.0
+FLUENCY - gold reference,4.0,4.0,4.0,1.5
+FLUENCY - google/flan-t5-xxl,3.0,3.0,3.0,3.0
+FLUENCY - davinci-instruct-beta,2.0,2.0,2.0,4.0
+FLUENCY - gpt-3.5-turbo,1.0,1.0,1.0,1.5
+SIMPLICITY - gold reference,4.0,4.0,2.0,2.0
+SIMPLICITY - google/flan-t5-xxl,3.0,3.0,4.0,4.0
+SIMPLICITY - davinci-instruct-beta,2.0,2.0,3.0,3.0
+SIMPLICITY - gpt-3.5-turbo,1.0,1.0,1.0,1.0

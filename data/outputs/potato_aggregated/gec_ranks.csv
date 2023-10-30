@@ -1,0 +1,13 @@
+,Average 57e2b,Average 5995e,Average 61102,Average gpt4_
+SEMANTICS - gold reference,3.0,3.0,4.0,2.0
+SEMANTICS - opt-iml-max-30b,1.0,1.0,1.0,4.0
+SEMANTICS - text-davinci-003,2.0,2.0,2.0,1.0
+SEMANTICS - gpt-3.5-turbo,4.0,4.0,3.0,3.0
+GRAMMATICALITY - gold reference,3.0,3.0,3.0,2.5
+GRAMMATICALITY - opt-iml-max-30b,4.0,4.0,4.0,4.0
+GRAMMATICALITY - text-davinci-003,2.0,2.0,2.0,1.0
+GRAMMATICALITY - gpt-3.5-turbo,1.0,1.0,1.0,2.5
+OVERCORRECTION - gold reference,3.0,2.0,2.5,1.0
+OVERCORRECTION - opt-iml-max-30b,1.0,1.0,1.0,2.0
+OVERCORRECTION - text-davinci-003,2.0,3.0,4.0,3.0
+OVERCORRECTION - gpt-3.5-turbo,4.0,4.0,2.5,4.0

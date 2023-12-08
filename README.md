@@ -1,25 +1,29 @@
 # seq2seq_llm_evaluation
 
 This project contains the code used to produce the results for the paper 
-[_"Evaluation Metrics in the Era of GPT-4: Reliably
-Evaluating Large Language Models on Sequence to Sequence Tasks"_](https://arxiv.org/abs/2310.13800), 
+[_"Evaluation Metrics in the Era of GPT-4: Reliably Evaluating Large Language Models on Sequence to Sequence Tasks"_](https://aclanthology.org/2023.emnlp-main.543),
 which has been accepted at EMNLP 2023, main conference. It also contains the full instructions provided to human reviewers 
 and GPT-4 for model evaluation in the `main/human_and_gpt4_evaluation/instructions_to_human_reviewers_and_gpt4` folder.
 For any questions on the code please contact [Andrea Sottana](mailto:andrea.sottana@netmind.ai).
 
-Please use the following bibtex when referencing this paper. This is currently based on the arXiv preprint, 
-and will be updated once the peer-reviewed publication link becomes available.
+Please use the following bibtex when referencing this paper. 
 ```
-@article{sottana2023evaluation,
-      title={Evaluation Metrics in the Era of GPT-4: Reliably Evaluating Large Language Models on Sequence to Sequence Tasks}, 
-      author={Andrea Sottana and Bin Liang and Kai Zou and Zheng Yuan},
-      journal={arXiv preprint arXiv:2310.13800},
-      year={2023},
-      eprint={2310.13800},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{sottana-etal-2023-evaluation,
+    title = "Evaluation Metrics in the Era of {GPT}-4: Reliably Evaluating Large Language Models on Sequence to Sequence Tasks",
+    author = "Sottana, Andrea  and
+      Liang, Bin  and
+      Zou, Kai  and
+      Yuan, Zheng",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.543",
+    pages = "8776--8788",
 }
 ```
+
 
 The project is structured as follows; each python module has a docstring at the top explaining its use case.
 
